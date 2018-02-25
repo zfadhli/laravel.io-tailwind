@@ -6,7 +6,7 @@
   "repository": "https://github.com/zulfadhli4141/parcel-vue-tailwind.git",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel src/index.html",
+    "dev": "parcel src/index.html --no-cache",
     "build": "parcel build src/index.html"
   },
   "dependencies": {
