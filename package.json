@@ -1,0 +1,22 @@
+{
+  "name": "parcel-tailwind",
+  "version": "0.0.1",
+  "description": "TailwindCSS project!",
+  "author": "zulfadhli <zulfadhli4141@gmail.com>",
+  "repository": "https://github.com/zulfadhli4141/parcel-vue-tailwind.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.6.2",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^11.1.0",
+    "postcss-url": "^7.3.0",
+    "tailwindcss": "^0.4.1"
+  }
+}
